@@ -5,6 +5,7 @@
 var time = process.hrtime();
 
 require('./init');
+
 var moment = require('moment');
 var numeral = require('numeral');
 
