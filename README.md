@@ -9,26 +9,13 @@ Usage
 1. 全局安裝 slush
 
   ```
-  $ npm install -g slush
+  $ npm i -g slush
   ```
 
 1. 刻隆本項目
 
   ```
-  $ git clone git@gitlab.ers.local:generator/slush-worker.git
-  ```
-
-1. 安裝依賴
-
-  ```
-  $ cd slush-worker
-  $ npm install
-  ```
-
-1. 映射到系統全局
-
-  ```
-  $ npm link
+  $ npm i -g @ersinfotech/slush-worker
   ```
 
 1. 在適合的位置，建立項目資料夾
@@ -44,16 +31,13 @@ Usage
   $ slush worker
   ```
 
-1. 回答問題，你已成功建好項目骨架了 XDD
+1. 回答問題，你已成功建好項目骨架
 
 Upgrade
 -------
 
-1. 進行git pull即可
-
   ```
-  $ cd slush-worker
-  $ git pull origin master
+  $ npm i -g @ersinfotech/slush-worker@latest
   ```
 
 Generators
@@ -66,4 +50,3 @@ Generators
   ```
   $ slush worker
   ```
-

@@ -1,6 +1,6 @@
 {
-  "name": "slush-worker",
-  "version": "0.0.0",
+  "name": "@ersinfotech/slush-worker",
+  "version": "0.1.0",
   "description": "slush-worker",
   "main": "slushfile.js",
   "dependencies": {
@@ -14,13 +14,6 @@
     "underscore.string": "~2.3.3",
     "underscore": "~1.6.0",
     "bluebird": "~2.2.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.ers.local:generator/slush-worker.git"
   },
   "keywords": [
     "slushgenerator"
