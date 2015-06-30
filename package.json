@@ -1,6 +1,6 @@
 {
   "name": "@ersinfotech/slush-worker",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "slush-worker",
   "main": "slushfile.js",
   "dependencies": {
