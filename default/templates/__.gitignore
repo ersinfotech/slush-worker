@@ -2,14 +2,7 @@
 
 npm-debug.log
 
-bower_components
 node_modules
 
 config/*
 !config/default.coffee
-
-migrations/.*
-tmp/*
-
-dist
-coverage
